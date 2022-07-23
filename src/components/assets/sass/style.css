@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  height: 10vh;
+  background-color: #20C090;
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.sebet {
+  width: 100%;
+  height: 30vh;
+  background-color: #fff;
+  border: 2px solid #20C090;
+  margin-top: 30px;
+  position: relative;
+}
+
+.sebet .total {
+  position: absolute;
+  right: 20px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+/*# sourceMappingURL=style.css.map */

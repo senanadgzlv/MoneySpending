@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    width: 100%;
+    height: 10vh;
+    background-color: #20C090;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sebet{
+    width: 100%;
+    height: 30vh;
+    background-color: #fff;
+    border: 2px solid #20C090;
+    margin-top: 30px;
+    position: relative;
+
+.total{
+    position: absolute;
+    right: 20px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+}

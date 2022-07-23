@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "title": "Saqqiz",
+        "price": 0.40,
+        "img":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30082462/30082462_0_MC/8796797599794_1555415441220.jpg"
+    },
+    {
+        "id":2,
+        "title": "Cola",
+        "price": 1.60,
+        "img":"https://static.insales-cdn.com/images/products/1/7884/447569612/3720497_1.jpg"
+    },
+    {
+        "id":3,
+        "title": "Ayaqqabi",
+        "price": 30,
+        "img":"https://static.nike.com/a/images/t_default/630805bf-dd98-4005-a8cd-c20f96cf96b3/air-max-90-shoe-Rr3hDm.png"
+    },
+    {
+        "id":4,
+        "title": "Maşın",
+        "price": 25000,
+        "img":"https://cdn.motor1.com/images/mgl/6ZpqJk/s1/ford-mustang-electric-by-charge-cars.jpg"
+    },
+    {
+        "id":5,
+        "title": "Gəmi",
+        "price": 855000,
+        "img":"https://sumqayitxeber.com/files/uploads/2017/09/gemi2.jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Tank",
+        "price": 50000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Challenger2-Bergen-Hohne-Training-Area-2.jpg"
+      },
+      {
+        "id": 8,
+        "title": "iPad Pro",
+        "price": 1700,
+        "img": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Helikopter",
+        "price": 30000,
+        "img": "https://img.milli.az/2021/11/30/1000147.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Təyyarə",
+        "price": 350000,
+        "img": "https://s5.cdn.memeburn.com/wp-content/uploads/2019/02/boeing-737-max-1024x576.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Villa",
+        "price": 70000,
+        "img": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/314234927.jpg?k=e8d0ff333645000b3345bf3c924ebdba3547cd73c362881b16049f5fe5d19701&o="
+      },
+      {
+        "id": 12,
+        "title": "Qızıl",
+        "price": 80000,
+        "img": "https://banco.az/sites/default/files/news/qizil_banco.az_2_6.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Bina",
+        "price": 90000,
+        "img": "https://media.istockphoto.com/photos/empty-road-at-building-exterior-picture-id479842074?k=20&m=479842074&s=612x612&w=0&h=HS6lsU1f9W21IkotS3cxdvU5KeEO-gLMUa6xrIBbR6k="
+      }
+
+
+
+   
+
+]
